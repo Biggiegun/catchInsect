@@ -10,7 +10,7 @@ tiemEl = document.getElementById('time'),
 scoreEl = document.getElementById('score'),
 message = document.getElementById('message');
 
-let 
+var 
 seconds = 0,
 score = 0,
 selected_insect = {}
@@ -59,7 +59,7 @@ function createInsect() {
         <img src="${selected_insect.src}" alt"${selected_insect.alt}" style="transform: rotate(${Math.random()*360}deg)" />
     `   
     
-    insect.aaddEventListener('click', catchInsect)
+    insect.addEventListener('click', catchInsect)
     game_container.appendChild(insect)
 }
 
@@ -93,7 +93,7 @@ function increaseScore(){
 }
 
 
-message.addEventListener('click', ()=> screens[1].classList.remove('up'))
+//message.addEventListener('click', ()=> screens[1].classList.remove('up'))
 
 
 
