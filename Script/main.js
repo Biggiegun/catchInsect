@@ -93,7 +93,7 @@ function increaseScore(){
 }
 
 
-message.addEventListener('click', ()=> screends[1].classList.remove('up'))
+message.addEventListener('click', ()=> screens[1].classList.remove('up'))
 
 
 
