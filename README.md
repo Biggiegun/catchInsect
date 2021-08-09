@@ -7,7 +7,7 @@ Descripción del código
 
 1. Las primeras 20 líneas de código quedan reservadas para declarar variables y asignarlas a los elementos del DOM correspondientes.
 
-i1
+![image](https://user-images.githubusercontent.com/63618372/128654164-1af2faa3-c20d-49e6-b5d4-c9885fe7aab6.png)
 
 2. La línea 21 inicia el juego al disparar un evento mediante un click en "start_btn"
 
