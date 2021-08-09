@@ -23,7 +23,8 @@ establece tiempos y modos de generación de insectos, e inicio del juego respect
 4. El código entre las líneas 48 y 59 se encarga de "pintar" en el DOM un contador de tiempo, haciendo uso de Template Literals. (En ediciones anteriores 
 de la especificación ES2015, solían llamarse "plantillas de cadenas de caracteres").
 
-![image](https://user-images.githubusercontent.com/63618372/128654299-1becddd6-a30b-4211-9d45-3b915971d53b.png)
+![image](https://user-images.githubusercontent.com/63618372/128654730-498ed3f0-d77b-464d-8d71-913585ad7dfd.png)
+
 
 
 5. Desde la línea 61 hasta la 75 se ejecuta el código que determina la forma como se crean los insectos, particularmente crea en pantalla un insecto dentro 
