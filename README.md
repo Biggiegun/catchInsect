@@ -26,11 +26,10 @@ de la especificación ES2015, solían llamarse "plantillas de cadenas de caracte
 ![image](https://user-images.githubusercontent.com/63618372/128654730-498ed3f0-d77b-464d-8d71-913585ad7dfd.png)
 
 
-
 5. Desde la línea 61 hasta la 75 se ejecuta el código que determina la forma como se crean los insectos, particularmente crea en pantalla un insecto dentro 
 de un tag tipo "div" le añade los estilos de la clase 'insect'.
 
-![image](https://user-images.githubusercontent.com/63618372/128654326-24ee258a-5a02-4588-a5ff-c261bbcdee51.png)
+![imgen5](https://user-images.githubusercontent.com/63618372/128654815-8738b705-bf7c-4e23-8ba0-fcc2fe2a7415.png)
 
 
 6. El código presente en las líneas 77 a 98 sirve para declarar las funciones getRandomLocation(), catchInsect(), y addInsects(), que en su orden se encargan 
