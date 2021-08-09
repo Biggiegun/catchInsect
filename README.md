@@ -3,7 +3,7 @@ Ejercicio Selección de insectos!!!
 
 despliegue en GitHub pages: https://biggiegun.github.io/catchInsect/
 
-Descripción del código
+Descripción del código:
 
 1. Las primeras 20 líneas de código quedan reservadas para declarar variables y asignarlas a los elementos del DOM correspondientes.
 
