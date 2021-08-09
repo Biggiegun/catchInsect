@@ -37,10 +37,11 @@ de obtener una ubicación aleatoria para los insectos -haciendo uso de Math.rand
 son "removidos"/"Reescalados" a un tamaño "0" en pantalla; y fijar los modos de generación de insectos de acuerdo a al método createInsect(), y al tiempo establecido
 en ms.
 
-![image](https://user-images.githubusercontent.com/63618372/128654357-050f07c2-8bf3-4c15-b964-35565004db07.png)
+![imgen6](https://user-images.githubusercontent.com/63618372/128655007-d0630a57-b2f8-43b3-bdc6-2764d5c8edae.png)
 
 
 7. Finalmente se describe la forma como se aumenta el puntaje hasta que llega a "19" momento a partir del cual se muestra el mensaje: 
 "Are you annoyed yet?  You are playing an impossible game !!"
 
-![image](https://user-images.githubusercontent.com/63618372/128654383-d816d8ac-07b4-48a7-b278-4f97de3eeabf.png)
+
+![imgen7](https://user-images.githubusercontent.com/63618372/128655016-2a590ad5-4066-4371-a2fe-3d8854dab6fc.png)
