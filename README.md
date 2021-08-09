@@ -17,7 +17,7 @@ Descripción del código
 la función forEach() acá descrita ejecuta, para el insecto seleccionado código que gracias a "setTimeout()", "createInsect()", y startGame(), 
 establece tiempos y modos de generación de insectos, e inicio del juego respectivamente.
 
-![image](https://user-images.githubusercontent.com/63618372/128654241-28f7a6f4-beaa-485b-8d18-d3dc0d67c677.png)
+![imgen3](https://user-images.githubusercontent.com/63618372/128654894-9da2e0e2-4db9-4f04-b6d4-622ffda78874.png)
 
 
 4. El código entre las líneas 48 y 59 se encarga de "pintar" en el DOM un contador de tiempo, haciendo uso de Template Literals. (En ediciones anteriores 
